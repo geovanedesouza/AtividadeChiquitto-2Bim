@@ -1,0 +1,9 @@
+TECNOLOGIAS
+. Notepad++
+	. Editor que texto para várias linguagens de programação. Deixa a visualização mais limpa e não pesa muito.
+
+. EasyPHP
+	. Pacote do PHP que tras o MySql e o Apache para conexões com o banco de dados.
+
+. Twitter Bootstrap
+	. Framework para agilizar e facilitar o desenvolvimento.

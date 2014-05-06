@@ -1,0 +1,4 @@
+RA 06008982 - Vanessa Harumi Tago - Gerente
+RA 06009082 - Mayron Noriduki Santos - Responsável pelo Model
+RA 06008886 - Hugo Silirio Garcia - Responsável pelo Controller
+RA 06006482 - Geovane de Souza - Responsável pela View

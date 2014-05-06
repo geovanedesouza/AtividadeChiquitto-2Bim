@@ -1,0 +1,40 @@
+CRONOGRAMA
+1ª semana
+. Vanessa
+	. Gerenciando equipe e cuidando dos prazos do cronograma. Auxiliando quando for preciso.
+. Mayron
+	. Pesquisa sobre Model e Auxiliando quando for preciso.
+. Hugo
+	. Pesquisa sobre Controller e Auxiliando quando for preciso.
+. Geovane
+	. Criação da View dos tópicos 1, 2 e 3
+	
+2ª semana
+. Vanessa 
+	. Gerenciando equipe e cuidando dos prazos do cronograma. Auxiliando quando for preciso.
+. Mayron
+	. Pesquisa sobre Model e Auxiliando quando for preciso.
+. Hugo
+	. Pesquisa sobre Controller e Auxiliando quando for preciso.
+. Geovane
+	. Criação da View dos tópicos 4, 5 e 6
+
+3ª semana
+. Vanessa
+	. Gerenciando equipe e cuidando dos prazos do cronograma. Auxiliando quando for preciso.
+. Mayron
+	. Pesquisa sobre Model e Auxiliando quando for preciso.
+. Hugo
+	. Pesquisa sobre Controller e Auxiliando quando for preciso.
+. Geovane
+	. Criação da View dos tópicos 7, 8 e 9
+
+4ª semana
+. Vanessa
+	. Gerenciando equipe e cuidando dos prazos do cronograma. Auxiliando quando for preciso.
+. Mayron
+	. Desenvolvimento do Model
+. Hugo
+	. Desenvolvimento do Controller
+. Geovane
+	. Finalização da View
