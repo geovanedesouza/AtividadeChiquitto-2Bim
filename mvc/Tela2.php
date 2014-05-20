@@ -4,6 +4,7 @@
 		<style type="text/css">
 	#form {  padding:15px;}
 	div.box .control-label { padding:10px 0 10px 0;}
+	div.span12 .input-xlarge{width:100%;}
 	</style>
         <title></title>
 		
@@ -24,11 +25,11 @@
 <div class="container-fluid">
 	<div class="row-fluid">
 		<div class="span12">
-			<table class="table table-bordered" border="3" contenteditable="true">
-				<thead contenteditable="false">
+			<table class="table table-bordered" border="3" contenteditable="false">
+				<thead>
 					<tr>
 						<th>
-							
+							#
 						</th>
 						<th>
 							Produtos mais vendidos
@@ -53,19 +54,19 @@
 							1
 						</td>
 						<td>
-							
+							<input id="prod1" name="prod1" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="qtd1" name="qtde1" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="un1" name="un1" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="mrg1" name="mrg1" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="fat1" name="fat1" type="text" class="input-xlarge">
 						</td>
 					</tr>
 					<tr>
@@ -73,19 +74,19 @@
 							2
 						</td>
 						<td>
-							
+							<input id="prod2" name="prod2" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="qtd2" name="qtde2" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="un2" name="un2" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="mrg2" name="mrg2" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="fat2" name="fat2" type="text" class="input-xlarge">
 						</td>
 					</tr>
 					<tr >
@@ -93,19 +94,19 @@
 							3
 						</td>
 						<td>
-							
+							<input id="prod3" name="prod3" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="qtd3" name="qtde3" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="un3" name="un3" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="mrg3" name="mrg3" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="fat3" name="fat3" type="text" class="input-xlarge">
 						</td>
 					</tr>
 					<tr>
@@ -113,19 +114,19 @@
 							4
 						</td>
 						<td>
-							
+							<input id="prod4" name="prod4" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="qtd4" name="qtde4" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="un4" name="un4" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="mrg4" name="mrg4" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="fat4" name="fat4" type="text" class="input-xlarge">
 						</td>
 					</tr>
 					<tr>
@@ -133,19 +134,19 @@
 							5
 						</td>
 						<td>
-							
+							<input id="prod5" name="prod5" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="qtd5" name="qtde5" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="un5" name="un5" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="mrg5" name="mrg5" type="text" class="input-xlarge">
 						</td>
 						<td>
-							
+							<input id="fat5" name="fat5" type="text" class="input-xlarge">
 						</td>
 						
 					</tr>
